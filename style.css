@@ -1,0 +1,35 @@
+body{
+				font-family:arel;
+}
+h1{
+				color:#afafaf;
+}
+p{
+				color:#9b9b9b;
+}
+
+.input12{
+				height:80px;
+				width:600px;
+				font-size:50px;
+				font-weight:bold;
+				font-family:serif;
+				text-align:center;
+				color:#afafaf;
+				border-style:solid;
+				border-color:#afafaf;
+				border-width:5px;
+				border-radius:30px;
+				margin-left:20%;
+}
+
+
+
+
+
+
+
+
+
+
+
